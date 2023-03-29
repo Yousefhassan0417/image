@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+}
+.div1{
+
+padding: 10px;
+padding-left:150px;
+padding-top: 90px;
+
+}
+
+    
+
+.image{
+    width: 70%;
+     padding-left: 15%;
+    margin-top: 23px;
+}
+.spana{
+    background-color: yellow; 
+    display: inline-block;
+    padding: 5px;
+}
+.spanb{
+    background-color:purple;
+    display: inline-block;
+    padding: 5px;
+}
